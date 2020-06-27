@@ -1,6 +1,8 @@
 import numpy as np
 import math
 from scipy import stats
+import random
+random.seed(624874)
 
 ###############################################
 
